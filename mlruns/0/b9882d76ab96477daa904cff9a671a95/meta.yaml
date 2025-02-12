@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b9882d76ab96477daa904cff9a671a95/artifacts
+end_time: 1739291126203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9882d76ab96477daa904cff9a671a95
+run_name: stylish-goose-719
+run_uuid: b9882d76ab96477daa904cff9a671a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739291125846
+status: 4
+tags: []
+user_id: DLC

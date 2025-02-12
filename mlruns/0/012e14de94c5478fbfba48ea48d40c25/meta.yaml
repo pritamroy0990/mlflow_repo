@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/012e14de94c5478fbfba48ea48d40c25/artifacts
+deleted_time: 1739289813638
+end_time: 1739289771545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 012e14de94c5478fbfba48ea48d40c25
+run_name: bemused-hound-649
+run_uuid: 012e14de94c5478fbfba48ea48d40c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739289771413
+status: 3
+tags: []
+user_id: DLC

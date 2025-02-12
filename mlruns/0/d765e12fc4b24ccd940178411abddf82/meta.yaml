@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d765e12fc4b24ccd940178411abddf82/artifacts
+end_time: 1739290708851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d765e12fc4b24ccd940178411abddf82
+run_name: likeable-mole-279
+run_uuid: d765e12fc4b24ccd940178411abddf82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739290708373
+status: 3
+tags: []
+user_id: DLC

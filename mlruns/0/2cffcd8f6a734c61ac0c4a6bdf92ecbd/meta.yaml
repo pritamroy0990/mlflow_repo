@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2cffcd8f6a734c61ac0c4a6bdf92ecbd/artifacts
+end_time: 1739290211935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cffcd8f6a734c61ac0c4a6bdf92ecbd
+run_name: thundering-croc-246
+run_uuid: 2cffcd8f6a734c61ac0c4a6bdf92ecbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739290211808
+status: 3
+tags: []
+user_id: DLC

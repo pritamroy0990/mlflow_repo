@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349565918174594483/f91e90d53d504feea8e92e93f6e2e552/artifacts
+end_time: 1739295438073
+entry_point_name: ''
+experiment_id: '349565918174594483'
+lifecycle_stage: active
+run_id: f91e90d53d504feea8e92e93f6e2e552
+run_name: legendary-pig-137
+run_uuid: f91e90d53d504feea8e92e93f6e2e552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739295417434
+status: 3
+tags: []
+user_id: DLC

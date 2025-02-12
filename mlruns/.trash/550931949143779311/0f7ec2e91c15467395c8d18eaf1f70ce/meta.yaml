@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/550931949143779311/0f7ec2e91c15467395c8d18eaf1f70ce/artifacts
+deleted_time: 1739289807249
+end_time: 1739289697093
+entry_point_name: ''
+experiment_id: '550931949143779311'
+lifecycle_stage: deleted
+run_id: 0f7ec2e91c15467395c8d18eaf1f70ce
+run_name: burly-skunk-284
+run_uuid: 0f7ec2e91c15467395c8d18eaf1f70ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739289685412
+status: 3
+tags: []
+user_id: DLC

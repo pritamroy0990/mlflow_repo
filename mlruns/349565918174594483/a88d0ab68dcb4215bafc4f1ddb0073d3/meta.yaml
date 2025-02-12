@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349565918174594483/a88d0ab68dcb4215bafc4f1ddb0073d3/artifacts
+end_time: 1739292143554
+entry_point_name: ''
+experiment_id: '349565918174594483'
+lifecycle_stage: active
+run_id: a88d0ab68dcb4215bafc4f1ddb0073d3
+run_name: enthused-sheep-423
+run_uuid: a88d0ab68dcb4215bafc4f1ddb0073d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739292143052
+status: 3
+tags: []
+user_id: DLC
