@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739353336136
+current_stage: None
+description: ''
+last_updated_timestamp: 1739353336136
+name: aa
+run_id: fd53b7e49bf549b9bb43bb7594d28aaa
+run_link: ''
+source: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/fd53b7e49bf549b9bb43bb7594d28aaa/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/fd53b7e49bf549b9bb43bb7594d28aaa/artifacts/random_forest
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/f06acbcbbb834c6bb2518b57f2db443f/artifacts
+end_time: 1739350550399
+entry_point_name: ''
+experiment_id: '684643644211192816'
+lifecycle_stage: active
+run_id: f06acbcbbb834c6bb2518b57f2db443f
+run_name: clean-kite-238
+run_uuid: f06acbcbbb834c6bb2518b57f2db443f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739350550357
+status: 3
+tags: []
+user_id: DLC

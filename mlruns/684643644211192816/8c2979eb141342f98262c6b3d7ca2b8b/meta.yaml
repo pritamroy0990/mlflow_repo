@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/8c2979eb141342f98262c6b3d7ca2b8b/artifacts
+end_time: 1739352893820
+entry_point_name: ''
+experiment_id: '684643644211192816'
+lifecycle_stage: active
+run_id: 8c2979eb141342f98262c6b3d7ca2b8b
+run_name: whimsical-sow-707
+run_uuid: 8c2979eb141342f98262c6b3d7ca2b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352881995
+status: 3
+tags: []
+user_id: DLC

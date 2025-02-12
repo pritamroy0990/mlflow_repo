@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/ddb96880d4204086bcb25f8e7191370e/artifacts
+end_time: 1739352886748
+entry_point_name: ''
+experiment_id: '684643644211192816'
+lifecycle_stage: active
+run_id: ddb96880d4204086bcb25f8e7191370e
+run_name: overjoyed-quail-432
+run_uuid: ddb96880d4204086bcb25f8e7191370e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352886704
+status: 3
+tags: []
+user_id: DLC

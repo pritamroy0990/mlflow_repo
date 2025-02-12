@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/c0499bdd65804b00ab6ed1ee302fb3e5/artifacts
+end_time: 1739352887146
+entry_point_name: ''
+experiment_id: '684643644211192816'
+lifecycle_stage: active
+run_id: c0499bdd65804b00ab6ed1ee302fb3e5
+run_name: bright-roo-55
+run_uuid: c0499bdd65804b00ab6ed1ee302fb3e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352887100
+status: 3
+tags: []
+user_id: DLC

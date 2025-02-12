@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/a885ece0121f4ac0b81d2e43a9e5d218/artifacts
+end_time: 1739352886943
+entry_point_name: ''
+experiment_id: '684643644211192816'
+lifecycle_stage: active
+run_id: a885ece0121f4ac0b81d2e43a9e5d218
+run_name: indecisive-mouse-951
+run_uuid: a885ece0121f4ac0b81d2e43a9e5d218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352886897
+status: 3
+tags: []
+user_id: DLC

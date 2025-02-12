@@ -1,0 +1,6 @@
+artifact_location: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816
+creation_time: 1739350544441
+experiment_id: '684643644211192816'
+last_update_time: 1739350544441
+lifecycle_stage: active
+name: breast-cancer-rf-hp

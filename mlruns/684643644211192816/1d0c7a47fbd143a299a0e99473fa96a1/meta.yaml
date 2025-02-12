@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/1d0c7a47fbd143a299a0e99473fa96a1/artifacts
+end_time: 1739352887094
+entry_point_name: ''
+experiment_id: '684643644211192816'
+lifecycle_stage: active
+run_id: 1d0c7a47fbd143a299a0e99473fa96a1
+run_name: omniscient-gnu-623
+run_uuid: 1d0c7a47fbd143a299a0e99473fa96a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352887045
+status: 3
+tags: []
+user_id: DLC

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/programing/python/ds_ml/MLOps/mlflow_repo/mlruns/684643644211192816/98c22432bb1c4dd5b8d02c87621ef152/artifacts
+end_time: 1739352886652
+entry_point_name: ''
+experiment_id: '684643644211192816'
+lifecycle_stage: active
+run_id: 98c22432bb1c4dd5b8d02c87621ef152
+run_name: grandiose-ape-332
+run_uuid: 98c22432bb1c4dd5b8d02c87621ef152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352886607
+status: 3
+tags: []
+user_id: DLC
